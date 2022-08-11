@@ -2,13 +2,15 @@
 
 This application is a simple work calendar that can be utilized to schedule events throughout a work day. 
 
-Each event can be saved to the local storage of the user with the typical 9 to 5 schedule.
+Each event is saved to the local storage of the user with the typical 9 to 5 schedule.
 
-The challenge is based of provided starter code and utilizes a "moment.js" library which incorporates a live date and time.
+This challenge is based off provided starter code and utilizes a "moment.js" library which incorporates a live date and time.
 
-By utilizing a web browser it does feature dynamic HTML & CSS which is powered by jQuery.
+By utilizing a web browser it features a dynamic HTML & CSS that is powered by jQuery.
 
-Each time slot is color coordinated representing either past, present or future events of the day within the time frame given.
+Each time slot is color coordinated representing either past, present or future events of the day within the time frame & day given.
+
+Events can be saved, stored and deleted when the web browser is refreshed.
 
 
 ## User Story
