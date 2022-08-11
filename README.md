@@ -13,6 +13,7 @@ Each time slot is color coordinated representing either past, present or future 
 Events can be saved, stored and deleted when the web browser is refreshed.
 
 
+Github Page: https://bsayavong.github.io/05-Work-Day-Scheduler/
 ## User Story
 
 ```md
@@ -38,3 +39,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+![my screenshot](./assets/images/Screenshot.png)
